@@ -3,6 +3,12 @@ A 3D simulation of the Lorenz 3-set system of ODEs that model atmospheric convec
 
 Simulation Demo Video: 
 
+
+
+https://user-images.githubusercontent.com/77819050/130301815-715be9f1-d4e5-4659-83b6-a1f8de55987a.mp4
+
+
+
 Using the following system of ODEs known as the Lorenz equations, I plot a dynamic solution to the system assuming the same variable values that Lorenz 
 himself used in 1963 when he developed this model
 
